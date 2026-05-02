@@ -1,4 +1,6 @@
 # 🏥 Healthcare Dashboard
+<img width="1920" height="1098" alt="image" src="https://github.com/user-attachments/assets/f23693d0-b4b7-49ca-af27-70af678d3ff1" />
+<img width="473" height="903" alt="Screenshot 2026-05-02 220227" src="https://github.com/user-attachments/assets/9fa13870-f74d-4b8b-b30c-ff5dc8a0d1d3" />
 
 A modern, fully componentised **React + Vite** healthcare dashboard.  
 Fetches live patient data from the Coalition Technologies API and displays blood pressure history, vitals, diagnostic lists, and patient profiles.
